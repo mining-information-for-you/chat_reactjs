@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import './App.css';
+import './Chat.css';
 import Principal from './components/Principal/Principal';
 
 
-class App extends Component {
+class Chat extends Component {
   render() {
     return (
       <Principal/>
@@ -11,4 +11,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default Chat;
