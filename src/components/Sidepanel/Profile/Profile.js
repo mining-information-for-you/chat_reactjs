@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import './profile.scss'
+import FaSearch from 'react-icons/lib/md/search'
 
 class Profile extends Component {
 
