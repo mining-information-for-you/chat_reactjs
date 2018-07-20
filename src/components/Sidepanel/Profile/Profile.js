@@ -9,8 +9,8 @@ class Profile extends Component {
         return(
         <div id="profile">
         <div className="wrap">
-            <img id="profile-img" src="http://emilcarlsson.se/assets/mikeross.png" className="online" alt="" />
-            <p>Mike Ross</p>
+            <img id="profile-img" src="https://cdn.xl.thumbs.canstockphoto.com.br/usu%C3%A1rio-sinal-icon-pessoa-s%C3%ADmbolo-human-avatar-imagem_csp43862271.jpg" className="online" alt="" />
+            <p>Pesquisador 01</p>
             <i className="fa fa-chevron-down expand-button" aria-hidden="true"></i>
             <div id="status-options">
                 <ul>

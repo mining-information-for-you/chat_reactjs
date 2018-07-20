@@ -7,8 +7,8 @@ class ContactProfile extends Component {
 
         return(
         <div className="contact-profile">
-			<img src="http://emilcarlsson.se/assets/harveyspecter.png" alt="" />
-			<p>Harvey Specter</p>
+			<img src="https://www.simtechdev.com/docs/_images/User_Profile_Page_008.png" alt="" />
+			<p>Emme</p>
 			<div className="social-media">
 				<i className="fa fa-facebook" aria-hidden="true"></i>
 				<i className="fa fa-twitter" aria-hidden="true"></i>
